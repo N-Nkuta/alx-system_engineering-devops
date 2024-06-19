@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $bestchol | bestchol='$best+$stir'
+echo $(($water+$stir))
