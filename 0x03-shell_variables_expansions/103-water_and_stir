@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$Bestchol" | Bestchol=$((water+stir))
+echo '$((#$Bestchol))' | Bestchol=$(('water#$water'+'stir#$stir'))
